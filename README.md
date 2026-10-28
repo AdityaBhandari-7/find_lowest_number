@@ -1,2 +1,2 @@
-# Fint Lowest Number
+# Find Lowest Number
 Automated testing using GitHub Actions
