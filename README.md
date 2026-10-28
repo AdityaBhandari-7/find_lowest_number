@@ -1,2 +1,2 @@
-# First Lowest Number
+# Fint Lowest Number
 Automated testing using GitHub Actions
